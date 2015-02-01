@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.scrnz</groupId>
-  <artifactId>record</artifactId>
-  <version>1.0.2</version>
+  <groupId>farm-android-lib</groupId>
+  <artifactId>app</artifactId>
+  <version>1.0</version>
   <versioning>
     <versions>
-      <version>1.0.2</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20150128044344</lastUpdated>
+    <lastUpdated>20150127153728</lastUpdated>
   </versioning>
 </metadata>
